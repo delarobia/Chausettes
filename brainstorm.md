@@ -1,22 +1,22 @@
-# Chaussettes
+# Chausettes
 
-## Contenu et fonctionnalités
+## Contenu et fonctionalités
 
-- Gestion de fiche de personnages
-    - stockage
-    - création
-    - modification
-
-- Gestion de parties
-    - Présence des joueurs avec leur fiche à une partie
-    - MJ responsable de la partie
+- Gestion de fiches de personnage
+    - Stockage 
+    - Création & Modification
+- Gestion de parties 
+    - Présence des joueurs avec leur fiche a une partie
+    - Mj responsable de la partie 
     - Note de parties globales et individuelles
 
-- Langages et technologies utilisés
-    - HTML
-    - CSS
-    - Javascript
+----------
 
-##  Objectifs à court terme
-    - Faire valider l'idée du projet
-    - Décider d'un design page d'accueil, structure du site, design page de garde (pour début mars)
+## Langages et technologies utilisées
+- HTML / CSS
+- JavaScript
+
+## Objectifs à court terme 
+- [x] Faire valider l'idée du projet
+- [ ] Décider de la structure et du design de la page de garde 
+- [ ] Faire la structure en HTML / CSS
